@@ -1,0 +1,8 @@
+{
+  "extractions": [
+    {
+      "sheet": "Chart Data",
+      "cells": ["D1", "D12", "D120", "C1", "C12", "C120"]
+    }
+  ]
+}
